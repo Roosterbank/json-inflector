@@ -30,6 +30,7 @@
     "inflection": "^1.8.0"
   },
   "devDependencies": {
+    "@types/inflection": "^1.5.28",
     "body-parser": "^1.15.0",
     "chai": "^3.5.0",
     "eslint": "^2.4.0",

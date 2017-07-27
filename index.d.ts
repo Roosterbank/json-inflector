@@ -1,4 +1,4 @@
-decalre module 'json-inflector' {
+declare module 'json-inflector' {
     import inflection = require('inflection');
     interface options {
         response:string | string[];
